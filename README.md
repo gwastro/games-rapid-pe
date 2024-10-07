@@ -1,6 +1,6 @@
 # Robust, Rapid, and Simple Gravitational-wave Parameter Estimation
 
-![](https://raw.githubusercontent.com/gwastro/games-rapid-pe/blob/master/example_bns/fig1.png)
+
 
 ## Introduction
 
@@ -19,8 +19,14 @@ a key component of how the millions of sources observed by next-generation obser
 analyzed. The approach can also be broadly applied for problems where an approximate likelihood
 metric-space can be constructed.
 
+## Example
+ * [Mapping precalculation](precalc_mapping)
+ * [BNS test example](example_bns)
+
 ## Links
  * [Arxiv Preprint Paper]()
+
+![](https://github.com/gwastro/games-rapid-pe/blob/b664fdef039b9836e35139308e3e32dcee5bf067/fig1.png)
 
 ## License and Citation
 
