@@ -1,2 +1,2 @@
 gdown
-pycbc @ git+https://github.com/ahnitz/pycbc.git@lightningpe
+pycbc @ git+https://github.com/gwastro/pycbc.git@master
