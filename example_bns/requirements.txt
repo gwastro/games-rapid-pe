@@ -1,0 +1,2 @@
+gdown
+pycbc @ git+https://github.com/ahnitz/pycbc.git@lightningpe

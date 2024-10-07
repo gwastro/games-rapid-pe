@@ -1,5 +1,8 @@
 # Example of analyzing a simualted BNS signal with the GAMES sampler
 
+To make sure you have the software set up, make sure to install the
+needed python packages from requirements.txt
+
 # The run.sh script breaks this down into a few tasks
 
 # 1) downloading the precalculated mapping file 
