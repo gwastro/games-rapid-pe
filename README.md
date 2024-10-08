@@ -37,4 +37,13 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unite
 We encourage use of these data in derivative works. If you use the material provided here, please cite the paper using the reference:
 
 ```
+@article{Nitz:2024nhj,
+    author = "Nitz, Alexander Harvey",
+    title = "{Robust, Rapid, and Simple Gravitational-wave Parameter Estimation}",
+    eprint = "2410.05190",
+    archivePrefix = "arXiv",
+    primaryClass = "astro-ph.IM",
+    month = "10",
+    year = "2024"
+}
 ```
