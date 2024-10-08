@@ -24,7 +24,7 @@ metric-space can be constructed.
  * [BNS test example](example_bns)
 
 ## Links
- * [Arxiv Preprint Paper]()
+ * [Arxiv Preprint Paper](https://arxiv.org/abs/2410.05190)
 
 ![](https://github.com/gwastro/games-rapid-pe/blob/b664fdef039b9836e35139308e3e32dcee5bf067/fig1.png)
 
